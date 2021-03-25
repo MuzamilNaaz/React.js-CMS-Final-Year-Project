@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu{
+    display: flex;
+    margin-right: 5em;
+    align-items: center;
+}
+ul.menu{
+    list-style: none;
+}
+.menu li{
+   margin-right: 3em;
+}
+.menu li a{
+    text-decoration: none;
+    color: black;
+}
+.menu li a :hover{
+    color: plum;
+}
+.logo img{
+    height: 80px;
+    padding: 15px;
+    margin-left: 15px;
+}
