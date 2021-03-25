@@ -7,6 +7,7 @@ const Home = () => {
       <div>
           <Crousel/>
           <Gallery/>
+          <Gallery/>
       </div>
   )
 };
